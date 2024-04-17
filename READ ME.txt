@@ -1,0 +1,15 @@
+SCRIPT SQL :
+
+create schema gestion_boutique;
+
+insert into gestion_boutique.ARTICLE (name, price, nbRestant) values ("Table", 200, 2);
+insert into gestion_boutique.ARTICLE (name, price, nbRestant) values ("Chaises", 50, 10);
+insert into gestion_boutique.ARTICLE (name, price, nbRestant) values ("Banc", 100, 5);
+
+insert into gestion_boutique.USER (login, name, password) values ('alice', 'Alice', 'mdpa');
+insert into gestion_boutique.USER (login, name, password) values ('bob', 'Bob', 'mdpb');
+
+
+Projet fait par :
+MICHOT Rémi 22007096
+CARCHAF Samia 22012461

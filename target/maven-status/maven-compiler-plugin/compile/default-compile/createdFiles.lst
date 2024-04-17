@@ -1,0 +1,14 @@
+fr\univtours\polytech\boutique\JakartaRestConfiguration.class
+fr\univtours\polytech\boutique\controller\ConnexionServlet.class
+fr\univtours\polytech\boutique\model\UserBean.class
+fr\univtours\polytech\boutique\model\CartBean.class
+fr\univtours\polytech\boutique\buisness\BoutiqueBuisness.class
+fr\univtours\polytech\boutique\controller\PanierServlet.class
+fr\univtours\polytech\boutique\DAO\ArticleDAOImplJPA.class
+fr\univtours\polytech\boutique\resources\JakartaEE10Resource.class
+fr\univtours\polytech\boutique\controller\ArticleServlet.class
+fr\univtours\polytech\boutique\DAO\UserDAO.class
+fr\univtours\polytech\boutique\DAO\UserDAOImpl.class
+fr\univtours\polytech\boutique\buisness\BoutiqueBuisnessImpl.class
+fr\univtours\polytech\boutique\model\ArticleBean.class
+fr\univtours\polytech\boutique\DAO\ArticleDAO.class
